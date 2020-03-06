@@ -1,1 +1,0 @@
-Hincmar text here.
